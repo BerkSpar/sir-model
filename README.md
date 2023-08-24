@@ -7,4 +7,3 @@ SIR é um modelo epidemiologico deterministico compartimental criado por W. O. K
 * I(t) representa os individuos que estão infectados em um determinado tempo t e que são capazes de transmitir a doença para os sucetiveis.
 * R(t) representa os individuos que foram recuperados após a infecção em um determinado tempo t. Aos individuos que chegaram a esse estágio, não se pode voltar pois ou estão curados ou estão mortos.
 
-### Why is coded in python?
